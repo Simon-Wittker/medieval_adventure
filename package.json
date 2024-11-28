@@ -1,0 +1,24 @@
+{
+  "name": "medieval_adventures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.ffhs.ch/simon.wittker/medieval_adventures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "three": "^0.157.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10",
+    "vite": "^4.4.11"
+  }
+}
