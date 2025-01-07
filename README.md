@@ -32,6 +32,8 @@ Um das Spiel auszuführen, sind die folgenden Schritte erforderlich:
    ```
 3. Das Spiel wird im Standardbrowser geöffnet.
 
+### Spiel beenden
+- Nach dem schliessend es Browser-Fenster muss noch der python Server via Terminal mit Ctr + C beendet werden.
 ## Features
 - **3D-Grafiken:** Komplett ohne externe Game Engine entwickelt
 - **Interaktion:** Spieler können die mittelalterliche Welt erkunden
